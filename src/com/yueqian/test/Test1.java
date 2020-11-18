@@ -8,4 +8,8 @@ public class Test1 {
     public void fun(){
         System.out.println("方法一!");
     }
+
+    public void fun2(){
+        System.out.println("方法二!");
+    }
 }
